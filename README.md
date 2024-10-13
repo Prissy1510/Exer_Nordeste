@@ -12,6 +12,6 @@ Abuse de sua criatividade para a criação da página!
 ATIVIDADE 2 
 Contribuindo com estilização CSS
 
-Instruções do projeto
-Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou.
+Instruções do projeto, 
+agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou.
 
